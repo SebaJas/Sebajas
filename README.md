@@ -7,9 +7,9 @@
 If you're wondering about my contribution activity — most of my daily coding happens in a **separate work GitHub account** (private company repos). What you see here are my personal projects and open-source work.
 
 
-🔧 **By day:** Senior Software Engineer at **SWARM Engineering** (via ClickIT), working on a multi-tenant enterprise AI + optimization SaaS — Go microservices, multi-tenant SSO / identity, and GitOps-based Kubernetes delivery. Also with **Cognativ Inc.**, building real-time video analytics engines with Go, Kafka, and AWS IoT Core.
+🔧 **By day:** Senior Software Engineer working on a multi-tenant enterprise AI + optimization SaaS — Go microservices, multi-tenant SSO / identity, and GitOps-based Kubernetes delivery — and on real-time video analytics engines built with Go, Kafka, and AWS IoT Core.
 
-🎵 **By night:** Creator of VinilHub, Argentina's first vinyl marketplace.
+🎵 **By night:** Creator of **VinilHub**, Argentina's first vinyl marketplace.
 
 ─────────────────────────────────────────────────────────────────
 
