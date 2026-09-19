@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Sebastian Alvarez
 **Senior Software Engineer** based in Argentina 🇦🇷, working remotely with US companies since 2019.
 
+**🌐 Portfolio → [salvarez-portfolio.vercel.app](https://salvarez-portfolio.vercel.app)** · **✍️ [Blog](https://salvarez-portfolio.vercel.app/blog)** · **💼 [LinkedIn](https://www.linkedin.com/in/sebaalvarez87/)**
 
 📊 **About My Contribution Graph**
 
