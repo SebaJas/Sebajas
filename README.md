@@ -3,6 +3,7 @@
 
 **🌐 Portfolio → [salvarez-portfolio.vercel.app](https://salvarez-portfolio.vercel.app)** · **✍️ [Blog](https://salvarez-portfolio.vercel.app/blog)** · **💼 [LinkedIn](https://www.linkedin.com/in/sebaalvarez87/)**
 
+
 📊 **About My Contribution Graph**
 
 If you're wondering about my contribution activity — most of my daily coding happens in a **separate work GitHub account** (private company repos). What you see here are my personal projects and open-source work.
